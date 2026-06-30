@@ -9,7 +9,6 @@ I also use AI agents in daily development to accelerate implementation, code rev
 - **Open to work:** EU / Remote  
 - **Email:** aliaksandr.aliakseyeu@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/aleksandr-alekseev-42824486/  
-- **GitHub:** https://github.com/aliaksandr-aliakseyeu
 
 ---
 
